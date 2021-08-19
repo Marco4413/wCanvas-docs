@@ -1,0 +1,6 @@
+[submodule "minami"]
+	path = minami
+	url = https://github.com/Nijikokun/minami
+[submodule "wCanvas"]
+	path = wCanvas
+	url = https://github.com/hds536jhmk/wCanvas
