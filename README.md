@@ -1,9 +1,9 @@
 
 ## wCanvas Docs
 
-Docs Link: [hds536jhmk.github.io/wcanvas-docs](hds536jhmk.github.io/wcanvas-docs/)
+Docs Link: [Marco4413.github.io/wCanvas-docs](Marco4413.github.io/wCanvas-docs/)
 
-Docs for [https://github.com/hds536jhmk/wCanvas](https://github.com/hds536jhmk/wCanvas/)
+Docs for [https://github.com/Marco4413/wCanvas](https://github.com/Marco4413/wCanvas/)
 
 ### How to Generate the Docs
 
